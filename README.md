@@ -12,3 +12,5 @@
     ・Mixamo_PhysicsAsset.uasset
     ・Beta_Joints_MAT.uasset
     ・Beta_HighLimbsGeoSG2.uasset
+
+https://youtu.be/pEqvXLleosA
